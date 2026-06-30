@@ -28,11 +28,11 @@ class Student:
 
     def get_prefix_th(self) -> str:
         """คำนำหน้าภาษาไทย"""
-        return "นางสาว"  # สามารถปรับตามข้อมูลจริง
+        return "นาย"  # สามารถปรับตามข้อมูลจริง
 
     def get_prefix_en(self) -> str:
         """คำนำหน้าภาษาอังกฤษ"""
-        return "MISS"
+        return "MR"
 
     def to_dict(self) -> dict:
         """แปลงข้อมูลเป็น dictionary"""
