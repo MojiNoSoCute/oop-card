@@ -27,8 +27,8 @@ def main():
         "last_name_th": "เอี่ยมสำอางค์",
         "first_name_en": "watcharakorn",
         "last_name_en": "iamsamang",
-        "faculty": "คณะวิทยาศาสตร์และเทคโนโลยี",
-        "photo_path": "assets/photos/lisa.jpg",
+        "faculty": "วิศวกรรมซอฟต์แวร์",
+        "photo_path": "assets/unnamed.jpg",
     }
 
     # สร้างนักศึกษา

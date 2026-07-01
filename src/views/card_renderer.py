@@ -37,7 +37,7 @@ class CardRenderer:
     <div class="card-front">
         <div class="card-header">
             <div class="logo-section">
-                <img src="assets/logo.png" alt="Logo" class="university-logo">
+                <img src="assets/Npru-logo.png" alt="Logo" class="university-logo">
             </div>
             <div class="university-info">
                 <h1 class="university-name-th">{self.student.university_th}</h1>
